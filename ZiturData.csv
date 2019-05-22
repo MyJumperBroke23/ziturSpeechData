@@ -1,0 +1,349 @@
+ZAB51-0001|Hi this is section 5.1, natural logarithmic differentiation|Hi this is section 5.1, natural logarithmic differentiation 
+ZAB51-0002|And before we start we're going to do a little warm-up, review logs a little bit and then we'll get into the differentiation|And before we start we're going to do a little warm-up, review logs a little bit and then we'll get into the differentiation
+ZAB51-0003|all right so why don't you go ahead, um, we need some exponents for these first parts so why don't you pause this and go ahead and find those exponents|all right so why don't you go ahead, um, we need some exponents for these first parts so why don't you pause this and go ahead and find those exponents 
+ZAB51-0004|So you can check your answers here three to the fourth is Eight, two to the fifth is thirty two, ten to the negative Third so we're moving these decimal places we have a negative exponent|So you can check your answers here three to the fourth is Eight, two to the fifth is thirty two, ten to the negative Third so we're moving these decimal places we have a negative exponent  
+ZAB51-0005|and then eight to the one-third what does that mean well that means the cube root of eight is two|and then eight to the one-third what does that mean well that means the cube root of eight is two 
+ZAB51-0006|correct, and then this one we're moving to the denominator so we need to use the negative. Three to the negative third is one over twenty seven|correct, and then this one we're moving to the denominator so we need to use the negative. Three to the negative third is one over twenty seven 
+ZAB51-0007|go ahead on your calculator and find some of these values I can do this one and this one for you but find the other ones approximate values on
+your calculator|go ahead on your calculator and find some of these values I can do this one and this one for you but find the other ones approximate values on
+your calculator 
+ZAB51-0008|so what are these all have in common well they all are dealing with exponents and logarithms|so what are these all have in common well they all are dealing with exponents and logarithms 
+ZAB51-0009|so if I look at this, this is just a logarithm we can write this and logarithmic form|so if I look at this, this is just a logarithm we can write this and logarithmic form 
+ZAB51-0010|sorry about that. We can write this one in logarithmic form, we do log|sorry about that. We can write this one in logarithmic form, we do log 
+ZAB51-0011|and then the base the base here for the exponential is three so the base for the logarithmic is three| 
+ZAB51-0012|logarithm and so the logarithm is an exponent, so this is going to be equal to my exponent which is four|logarithm and so the logarithm is an exponent, so this is going to be equal to my exponent which is four 
+ZAB51-0013|and so we say the log of eighty one base three is equal to four. Now we can write all of these in|and so we say the log of eighty one base three is equal to four. Now we can write all of these in 
+ZAB51-0014|Log form that's base two of thirty two is equal to five. remember logs are exponents|Log form that's base two of thirty two is equal to five. remember logs are exponents 
+ZAB51-0015|and this one log this is common logarithm so its base ten and so this is equal to negative three and it's of point zero zero one|and this one log this is common logarithm so its base ten and so this is equal to negative three and it's of point zero zero one 
+ZAB51-0016|and then this one|and then this one 
+ZAB51-0017|okay I think you get the drift here so base eight log of two base 8 is equal to one third.|okay I think you get the drift here so base eight log of two base 8 is equal to one third. 
+ZAB51-0018|now with these, the natural logarithm has a base E.|now with these, the natural logarithm has a base E. 
+ZAB51-0019|and so this means e to what power gives me one? well it's got to be 0. e to what power gives me point six nine three|and so this means e to what power gives me one? well it's got to be zero. e to what power gives me point six nine three 
+ZAB51-0020|remember e is approximately two point seven one eight|remember e is approximately two point seven one eight 
+ZAB51-0021|that's the value of e it's naturally occurrence we call it natural base and then also these are the natural logarithms.|that's the value of e it's naturally occurrence we call it natural base and then also these are the natural logarithms.
+ZAB51-0022|okay once you investigate this a little bit, we'll do it together I guess on on our calculator, we want to find the integral from one to X of one over T|okay once you investigate this a little bit, we'll do it together I guess on on our calculator, we want to find the integral from one to X of one over T
+ZAB51-0023|now if we do this, I can take this one and plug it in for X. The integral from one to one is simply going to be zero|now if we do this, I can take this one and plug it in for X. The integral from one to one is simply going to be zero
+ZAB51-0024||
+ZAB51-0025||
+ZAB51-0026||
+ZAB51-0027||
+
+
+
+
+
+1 to 2 well
+now I need my calculator here's my graph
+of 1 over X and I want to find the area
+so I can do number seven here under 2nd
+calc and I'm going to do it from one to
+two and there's my point 6 930 we've
+seen that before and then we can go on
+and calculates more from elbow from 1230
+we've seen that one too okay then the
+other one well if I do one to e so
+second calc from one number 7 from 1 to
+e oh that's going to be one I hope you
+see in what's happening here this
+integral is actually where the natural
+logarithm came from and so if i put
+these values in from one to two of this
+one is going to be 0 point 693 from one
+to three is going to be 1.0 98 and then
+de it's just going to be 1 and then 27 I
+bet it's going to be 1 point 9 45 so if
+I needed to define this thing I'm think
+that we could call this the natural log
+of x okay so that's the integral from 1
+to X of that thing also e is the limit
+as X goes to infinity you should have
+poured that in precalculus but we have
+this limit 1 plus 1 over x rays the
+X as X goes to infinity is where e comes
+from tribe investigating that a little
+bit more if you're confused on that we
+have some other things that we need we
+have the change of base formula so if I
+have a base that I don't like for
+instance here a I can change it over to
+base B by going across log of x divided
+by log of a which is the base put it
+there also some other properties we have
+the log of a product is equal to some of
+the logs and then we can do that with
+the ln2 log of a quotient is equal to
+the difference of the logs and then we
+have the power property which I call the
+plug rule so if I have the log of some
+power here I can take that exponent and
+bring it out in front plog okay or
+pollen you don't forget that one ok so
+those are rules that you should know and
+then ln x and e to the X are inverses of
+each other so if you take the
+composition of the inverses you should
+end up with X so here is and this isn't
+this is just a regular log with base a
+but if these bases are the same a to
+what power gives you a to the you it's
+got to be you this is the same exact
+thing except for the base is e so I get
+that this was a little bit tricky for
+people because this one just says a to
+what power gives you you well I'm taking
+a to that power so I better get you and
+then this one if you have me in
+precalculus I say well for this one here
+I say if it spells line you can draw a
+line through it this one I made make fun
+it's not true but I say what's the
+Chinese word for line well it's Elm
+because in Chinese they have the
+different tones so this is the second
+tone rising Elm you can cross it off and
+you're just left with the you all right
+why don't you go ahead and graph these
+you can graph these and play around with
+some of the domain and range and I'll
+come back to you here in a minute so
+pause this and do that okay so if you
+sketch graphs of these I didn't do a
+very accurate job but these will look
+pretty similar because II is 2.72 and
+then this base over here is 3 and when
+we look at those things then
+me pause here so if I look here at the y
+equals e to the X this is y equals e to
+the X that's an exponential goes through
+the point zero one all Exponential's
+that don't have a leading coefficient
+will go through 01 so since these two
+functions are inverses of each other
+then the logarithmic function will go
+through 10 this one's strictly in Crete
+Oh both of them are strictly increase
+you know that's right if I have inverse
+functions and one is strictly increasing
+the other one will be strictly
+increasing and so with this one domain
+would be all reals for the EDX and then
+the range is y greater than 0 because I
+just show up above the x-axis here then
+we just switch x and y to find the
+inverse so I got to just switch this
+domain and this range over and then very
+similar fashion 3 the X is going to give
+you the same domain and range notice to
+this point is 0-1 this point is 10 so
+this is y equal to the log of X base 3
+okay now moving on using some of these
+operations that we had earlier if I go
+on the split screen here what we want to
+do is we want to use some of these
+properties to split this up so if you
+see this one this is log of a product
+and so I can take this log of a product
+and I can split it up this base will
+stay the same it's all come and
+logarithm so its base 10 so it would be
+log of 6 plus log of X plus log of Y
+squared now with this these are pretty
+much simplified as much as they can this
+one however is as a squared here so we
+can go ahead and use the plug rule so
+this would be equal to log of 6 plus log
+of X plus I can take this to put it on
+in front so it be to log of Y that would
+be expanding and we need this technique
+in order to do some of our derivatives
+now with this one this one's a little
+bit more involved I have this X Y so i
+can do ln x plus ln
+I'm sorry that's a Z plus ln z now in
+this denominator since i'm dividing i
+got to use this rule so i'm going to
+subtract out Ln of square root of Y
+squared plus 1 now instead of square
+root what I maybe should do is take that
+out and make an exponent of one half
+then i can plug that so then this is
+going to be equal to ln x plus ln z
+minus one-half ln y squared plus 1 then
+we want to split this up oh wait a
+second can we does this fit any of our
+rules do I have a log of a sum no I
+don't so this is finished this is all I
+can do log of a sum cannot be simplified
+it's the log of a product turns into a
+sum of logs alright so that's all you
+can do there if we want to work in
+reverse order if we want to condense
+these I now I can go unplug this one so
+i can use this rule so this would be log
+of x to the one-half and then plus undo
+this one put this one up as well so this
+would be log of X plus 1 raised to the
+fourth and then I have log some of logs
+so i can take this one and work in
+reverse here so this would be log of x
+to the one-half x plus 1 raised to the
+fourth so then it be the log of the
+product of those two if we do this next
+one i can distribute this one third on
+all of these or i can condense these
+first and then apply the one third one i
+do if they condensing inside first so
+this is a sum so with a sum oh i got to
+put this one up so i'm going to need to
+put the two up above this one so I I
+take the sum and i'm going to multiply
+so it'd be X plus 5 quantity squared
+this is a difference so then I need to
+so divide this one and it inside the
+logarithmic function I need Z cubed so
+that's what I'm going to have now what
+did I lose but I lost by one third I
+still need that so now I'm going to take
+that one and put that up so overall this
+becomes ln x x plus 5 quantity squared
+all over Z cubed to the one third okay
+that will help us greatly for our rules
+coming up now finally to the calculus
+since at the beginning we had we kind of
+found this out this isn't exactly true
+I'll show you exactly what it is later
+but we have the integral of 1 over T
+from 1 to X equal to Ln X so in other
+words if i take the derivative of this
+thing then I should get 1 over X so in
+other words the derivative of ln x is 1
+over X and that's what we have right
+here and if we have it in terms of
+something different than just plain X Ln
+you we would have to chain off by that
+you so now we're just going to use this
+rule to find some derivatives y prime is
+equal to take one over the object here
+and then chain off well the derivative
+of x is just x so I just get that that's
+our rule this one I'll use dy/dx is time
+for notation 1 over 3x write down as it
+is and don't forget to chain so the
+chain of the 3x is the three now you
+notice the threes cancel here and so I'm
+left what how did that happen so what
+happens with this is that I can take
+this and use our logarithmic rules and
+split this up this would be Ln 3 plus ln
+x well if i do y prime of this what's
+the drivel and three well this is just a
+constant what's the derivative constant
+zero and so i just am left with 1 over X
+so there's two ways to do it both turns
+out to be the same this next one number
+3 y prime is equal to take one over the
+object of the logarithm it logarithm 1
+over the cosine
+and then chain it off derivative cosine
+is going to be negative sign so this
+turns out to be negative tangent of X
+hmm interesting oh I guess then if we
+take the integral of tangent we'll get
+something like this well we'll figure
+that out later now if I look at
+something like this let's see some weird
+stuff happening with this one 1 over x
+squared times the chain would be x 2x
+one of those is going to cancel so this
+is equal to one of the x's cancel i'm
+left with 2 over x oh how did that
+happen well let's figure this one out if
+i rewrite this to ln x then y prime is
+just going to be to the constant we go
+along for the ride and then x 1 over x
+which is the derivative a land x 0 2
+over X doesn't matter which way you do
+it all this stuff falls into place
+wonderful now with this one you have a
+composition of three functions I don't
+know if there's logarithmic rules that
+you can use to split this up or not but
+I'm just going to go ahead with brute
+strength and awkwardness and crank this
+out so I'm going to take the derivative
+ln so it's 1 over the object of the
+logarithm which is this then I have to
+chain well the derivative of ln x cubed
+is going to be 1 over X cubed and I need
+to chain again since its composition of
+three functions I need two chains so
+this derivative would be 3x squared so
+this is chain number one and this is
+chain number two alright so there's some
+basic derivatives that we can look at
+now we can get into some stuff that's a
+little bit more tricky what we maybe
+want to do is use some of our rules of
+logarithms to split some of this up and
+that might make it a little bit easier
+for us so when finding F prime here
+I want to rewrite this logarithm by
+splitting it up well this is a quotient
+so I'm going to take log of x over log
+of a quotient difference of the logs
+this is going to be Ln of the square
+root of x squared plus 2 well x squared
+plus 2 as an exponent one-half so I'm
+going to put the one-half out in front
+and plug that so now if I do F prime
+this is 1 over x and then minus the one
+half goes along for the ride I'm going
+to do one over x squared plus 2 and then
+chain that off which is the 2x cleaning
+this up 1 over X the 2's cancel so I'm
+left with 1 minus x over x squared plus
+2 if you want to get a common
+denominator put that together that's
+possibility but I'm just going to leave
+it like that but to me that makes a lot
+more sense than writing one over this
+which means take the reciprocal and then
+take the derivative of this thing which
+would be a quotient rule I think this
+would be a lot easier so it's nice that
+you know your rules of logarithms so
+here I'm going to rewrite this Ln of
+sine of X and right now for our purposes
+we're just going to ignore the absolute
+value when we take the derivative this
+so if i take F prime this is going to be
+1 over the sine of x times derivative
+sine of X is the cosine of X minus 1
+over the sine of X plus 1 and this is
+going to be times the cosine of X as
+well we get a common denominator and
+simplify so I'm going to multiply both
+these let me write so I put a common
+denominator in there I got to distribute
+this I get cosine sine of X plus cosine
+and this is negative sine of X cosine of
+X so those will cancel out so in the
+numerator I'll be left with cosine of X
+in the denominator I'll be left with
+sine of X sine of X plus 1 okay
+so that is f prime of X how about this
+one well I see two functions so I'm
+going to have to do the product rule so
+f prime of x is equal to your first
+times the derivative second plus the
+second ln x times 2x so i'm going to do
+the second times 2x here not too much
+simplifying but a little bit x + 2 x ln
+x that's our derivative ok so hopefully
+you're getting used to some of these
+rules and for some of them it's made a
+lot easier if you can split them up so
+if I have the log of some big stuff then
+what you want to do is use some of your
+logarithmic rules and then just do a
+piece by piece that will save you a lot
